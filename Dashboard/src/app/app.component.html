@@ -1,0 +1,5 @@
+<div >
+  <button type="button" name="back" style="width: 100px;height: 35px;margin: 20px;" (click)="backClick()" *ngIf="currentChart != 1">Back</button>
+  </div>
+
+<highcharts-chart  [Highcharts]="Highcharts" [options]="chartOptions" style="display: flex; width: 100%; height: 100%;"></highcharts-chart>

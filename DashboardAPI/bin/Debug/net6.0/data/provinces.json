@@ -1,0 +1,11 @@
+[
+    {"Id": 0, "Name": "Eastern Cape"},
+    {"Id": 1, "Name": "Free State"},
+    {"Id": 3, "Name": "Gauteng"},
+    {"Id": 4, "Name": "KwaZulu-Natal"},
+    {"Id": 5, "Name": "Limpopo"},
+    {"Id": 6, "Name": "Mpumalanga"},
+    {"Id": 7, "Name": "Northern Cape"},
+    {"Id": 8, "Name": "North West"},
+    {"Id": 9, "Name": "Western Cape"}
+]
